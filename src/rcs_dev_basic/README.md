@@ -47,6 +47,20 @@
     * 收费 charging
     * 路由 routing
 
+## RCS涉及多方
+
+* 为了实现RCS，涉及到
+  * 多方
+    * 运营商=网络运营商=移动网络运营商=MNO
+    * 服务提供商=SP
+  * 网络相关
+    * 寻址addressing
+    * 信号处理signalling
+      * 包括
+        * 运营商网络
+          * 内部=intra：intra-operator
+          * 之间=inter：inter-operator
+
 ## 运营商部署RCS
 
 * 部署
@@ -55,6 +69,23 @@
       * 在VoLTE之前就部署RCS消息服务
         * 用于满足用户对于多媒体消息的需求
           * 面对智能手机时期的OTT的各种应用的竞争
+
+## RCS多设备支持
+
+* RCS 多设备环境
+  * 多设备环境
+    * ![rcs_mutiple_device_env](../assets/img/rcs_mutiple_device_env.png)
+  * 接入语音电话
+    * ![rcs_incoming_voice_call](../assets/img/rcs_incoming_voice_call.png)
+  * 多设备环境和服务发现
+    * ![rcs_multi_dev_service_discovery](../assets/img/rcs_multi_dev_service_discovery.png)
+  * 多设备环境和存在服务
+    * ![rcs_multi_dev_env_presence_service_1](../assets/img/rcs_multi_dev_env_presence_service_1.png)
+    * ![rcs_multi_dev_env_presence_service_2](../assets/img/rcs_multi_dev_env_presence_service_2.png)
+  * 多设备环境和IS&VS
+    * ![rcs_multi_dev_env_is_vs](../assets/img/rcs_multi_dev_env_is_vs.png)
+  * 多设备环境和 即时通讯/聊天/文件传输
+    * ![rcs_multi_dev_im_chat_file](../assets/img/rcs_multi_dev_im_chat_file.png)
 
 ## 常见问题
 

@@ -1,6 +1,6 @@
 {
   "latestVersion": "v1.0",
-  "lastUpdate": "20200916",
+  "lastUpdate": "20200918",
   "gitRepoName": "rcs_tech_dev_summary",
   "bookName": "RCS技术开发总结",
   "bookDescription": "总结RCS技术开发相关知识，包括开发概述和RCS演化历史，和技术相关总结，比如RCS技术架构，RCS版本历史和UP版本详情，以及RCS具体实现；以及如何进行RCS开发，包括找RCS服务商，比如国外的Google，国内的菊风，或自己从头开发，比如参考开源项目rcsjta，以及详细开发步骤比如下载代码、准备环境、编译apk、运行apk、演示RCS功能及其中的核心参数设置、rcsjta的源码分析。"

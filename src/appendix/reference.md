@@ -2,32 +2,22 @@
 
 DOING：
 
+* 
+
 ---
 
 TODO:
 
 * 【记录】研究Android项目rcsjta中RCS的core的service启动的代码调用逻辑关系和顺序
-* 【整理】什么是GERAN UTRAN E‐UTRAN RAN
-* 【整理】什么是OSA-SCS和OSA AS
-* 【整理】什么是IP-SM-GW
-* 【整理】什么是IMS-SSF
-* 【整理】NGN和TISPAN和IMS架构和相关组织关系整理
-* 【整理】什么是DSLAM
-* 【整理】什么是ABG
-* 【整理】RCS相关基础知识：GSM SS BSS
-* 【已解决】RCS和IMS相关机构组织及其协议之间的关系和逻辑
+* 【记录】研究rcsjta中的RcsCoreService的代码调用逻辑和顺序
+* 
 * 【未解决】IMS系统中用户账号注册和SIP会话控制相关流程和过程逻辑
-* 【整理】RCS相关概念和基础知识：Albatros、Blackbird、Crane、joyn
 * 【记录】继续研究rcsjta相关文档和RCS相关资料
 * 【未解决】通过调试rcs的core加运行其他几个apk去研究rcsjta的服务没运行的原因
 * 【整理】RCS相关协议学习：RCC.13v1.0.pdf  Rich Communication Suite RCS API
 * 【未解决】搞懂rcsjta的Provisioning和IMS核心参数：IMS private URI for HTTP Digest
 * 【已解决】换安卓9的红米Note8Pro去尝试获取IMSI
-* 【整理】RCS历史背景相关知识总结
-* 【整理】RCS相关基础知识：无线网络信号传输基础知识
-* 【整理】RCS相关基础知识：LTE VoLTE相关
-* 【整理】什么是Telco和Telco platform
-* 【整理】eSIM是什么
+* 
 * 【记录】学习RCS开源项目rcsjta的文档：RCSJTA_open_source.ppt
 * 【记录】学习RCS开源项目rcsjta的文档：TAPI_architecture.ppt、TAPI_capabilities_contact.ppt、TAPI_chat.ppt
 * 【未解决】确保已给rcsjta项目安装了匹配的版本的Java即JDK
@@ -84,7 +74,6 @@ TODO:
 * 【已解决】rcsjta中RI检测core的Service的status时报错：API is not compatible
 * 【无法解决】调试rcsjta的settings以触发setActivationMode设置激活模式以去找RCS服务启动逻辑
 * 【已解决】rcsjta的settings中关闭重新开启RCS Service会报错：Failed to get result for com.gsma.service.rcs.action.ET_ACTIVATION_MODE see Logcat
-* 【记录】研究rcsjta中的RcsCoreService的代码调用逻辑和顺序
 * 【未解决】Android项目rcsjta中如何才能运行到rcs的core的service
 * 【未解决】rcsjta中调试core的apk即RCS Provisioning的app中功能和选项以寻找core的service启动逻辑
 * 【已解决】安卓项目rcsjta中core的apk中入口activity或service是什么
@@ -134,6 +123,9 @@ DONE:
 * 【已解决】运行RCS服务是否需要IMS的AS服务器以及P-CSCF等相关名词含义
 * 【基本解决】研究rcsjta中源码中和启动RCS的服务的相关代码和逻辑
 * 【整理】搞清楚RCS和IMS的架构逻辑关系
+* 【已解决】RCS和IMS相关机构组织及其协议之间的关系和逻辑
+* 【整理】RCS历史背景相关知识总结
+* 【整理】RCS相关概念和基础知识：Albatros、Blackbird、Crane、joyn
 * 
 * [5G消息RCS技术总结](https://book.crifan.com/books/5g_message_rcs_tech_summary/website/)
 * [RCS/IMS/TISPAN/NGN架构和相关组织关系图 | ProcessOn免费在线作图,在线流程图,在线思维导图](https://www.processon.com/view/link/5f48c086f346fb2e2959bfbb)
@@ -263,4 +255,5 @@ https://www.gsma.com/newsroom/resources/rcc-10-rich-communication-suite-endorsem
 * [Google rescues RCS to compete WhatsApp | Technology Issues Blog](http://blog.technology-issues.com/2016/03/13/google-rescues-rcs-to-compete-whatsapp/)
 * [Mavenir: Monetizing RCS through Innovation on Cloud Native Network](https://www.slideshare.net/mavenir/mavenir-monetizing-rcs-through-innovation-on-cloud-native-network)
 * [Radisys & Mavenir: Monetizing VoLTE and RCS](https://www.slideshare.net/Radisys/radisys-mavenir-monetizing-volte-and-rcs)
+* ["RCS-e/joyn Basics" Chapter 07 Multi-device (sample) by Leliwa - issuu](https://issuu.com/leliwa/docs/rcs_e_joyn_basics_chapter_07_multid)
 * 
